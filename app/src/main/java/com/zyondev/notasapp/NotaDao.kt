@@ -1,4 +1,4 @@
-package com.zyon31.notasapp
+package com.zyondev.notasapp
 
 import androidx.room.Dao
 import androidx.room.Insert
