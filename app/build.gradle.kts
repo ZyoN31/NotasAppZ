@@ -62,6 +62,9 @@ dependencies {
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("androidx.activity:activity-ktx:1.8.0")
 
+    // Material Components (soluciona Theme.MaterialComponents.* y atributos colorPrimaryVariant, colorOnPrimary)
+    implementation("com.google.android.material:material:1.9.0")
+
     // Room y Coroutines
     implementation("androidx.room:room-runtime:2.6.1")
     kapt("androidx.room:room-compiler:2.6.1")
